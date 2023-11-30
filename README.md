@@ -9,7 +9,7 @@
 
 
 
-I have been learning coding since October 2021. Masai has given me the training over MERN Stack web development where I learned HTML, CSS, JavaScript, Node.js, Express, React, Redux and also got the working of Github. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
+I have been learning coding since October 2021. Masai has given me the training over web development where I learned HTML, CSS, JavaScript, React, Redux and also got the working of Github. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
 
 
 <img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
@@ -17,10 +17,10 @@ I have been learning coding since October 2021. Masai has given me the training 
 * 🌍  I'm based in Guntur, Andhra Pradesh
 * 💬  My portfolio is [https://portfolio2-shaik-janishaida.vercel.app/]
 * ✉️  You can contact me at [shaikjanishaida47@gmail.com](mailto:shaikjanishaida47@gmail.com)
-* 🧠  I'm learning `MERN Stack`.
+* 🧠  I'm Working as `Frontend Developer`.
 * 🤔  I’m looking for help with `Competitive Programming`
 * ⚡  I like interacting with new people and explore the world.
-* 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
+* 💬  Ask me about `Coding`, `Frontend`, `DSA`,  `Web`, `softwaredevelopment`
 
 
 <a href="https://www.twitter.com/shaikjanishaida7" target="_blank" rel="noreferrer"><img
@@ -35,7 +35,10 @@ src="https://img.shields.io/github/followers/jani474747?logo=github&style=for-th
 
 
 ### Skilled in 
-[![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc)](#) &nbsp; 
+[![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc)](#) &nbsp;  [![ReduxToolkit Badge](https://img.shields.io/badge/-ReduxToolkit-593d88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) &nbsp;
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-151515?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](#) &nbsp;
+[![MUI Badge](https://img.shields.io/badge/-Mui-007bf7?style=for-the-badge&labelColor=black&logo=mui&logoColor=007bf7)](#) &nbsp;
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jani474747&show_icons=true&count_private=true&theme=radical" width="550"></a>
